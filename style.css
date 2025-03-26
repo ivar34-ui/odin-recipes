@@ -1,0 +1,9 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(221, 183, 112);
+}
+
+li a {
+    color: black;
+    text-decoration: none;
+}
